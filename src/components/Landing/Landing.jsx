@@ -32,10 +32,16 @@ const Landing = () => {
           </div>
           <ul className={classes.list}>
             <li className={classes.link}>
-              <a href="https://www.linkedin.com/in/om-gawande/"> LinkedIn</a>
+              <a href="https://www.linkedin.com/company/dsc-dypcoe/mycompany/">
+                {" "}
+                LinkedIn
+              </a>
             </li>
             <li className={classes.link}>
-              <a href="https://www.linkedin.com/in/om-gawande/"> Instagram</a>
+              <a href="https://www.instagram.com/gdsc_dypcoe/"> Instagram</a>
+            </li>
+            <li className={classes.link}>
+              <a href="https://github.com/DSC-DYPCOE/GDSC_Portfolio"> GitHub</a>
             </li>
           </ul>
         </nav>

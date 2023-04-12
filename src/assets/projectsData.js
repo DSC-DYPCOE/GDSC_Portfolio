@@ -1,6 +1,6 @@
 import xphouse from "../assets/xpHouse.png";
-import yttb from "../assets/xpHouse.png";
-import flipverse from "../assets/xpHouse.png";
+import yttb from "../assets/yttb.png";
+import draic from "../assets/draic.png";
 
 export const ProjectsData = [
   {
@@ -14,30 +14,8 @@ export const ProjectsData = [
     imageSrc: yttb,
   },
   {
-    title: "FlipVerse",
-    link: "https://github.com/spyware007/flipverse",
-    imageSrc: flipverse,
-  },
-
-  {
     title: "Draic DYPCOE",
     link: "https://www.draicdypcoe.in/",
-    imageSrc: flipverse,
-  },
-
-  {
-    title: "College Ranker",
-    link: "https://www.collegeranker.in/",
-    imageSrc: flipverse,
-  },
-  {
-    title: "CPMC Official Website",
-    link: "https://cpmc-dypcoe.vercel.app/",
-    imageSrc: flipverse,
-  },
-  {
-    title: "Aces Website",
-    link: "https://aces-dypcoe.github.io/ACES-New-Website/",
-    imageSrc: flipverse,
+    imageSrc: draic,
   },
 ];
