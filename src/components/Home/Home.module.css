@@ -1,0 +1,15 @@
+.landing_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 40vw;
+}
+.heading {
+  font-size: 50px;
+}
