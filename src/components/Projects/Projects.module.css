@@ -4,5 +4,5 @@
   align-items: center;
   flex-wrap: wrap;
   gap: 40px;
-  width: 100vw;
+  transform: scale(0.5x);
 }

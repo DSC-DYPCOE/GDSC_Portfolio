@@ -12,8 +12,24 @@
   width: 100vw;
   margin-bottom: 40px;
 }
+
 .list {
   display: flex;
   list-style-type: none;
   gap: 20px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    transform: scale(0.7);
+  }
+  .navbar {
+    flex-direction: row-reverse;
+  }
+  .list {
+    gap: 10px;
+  }
+  .list:nth-child(3) {
+    display: none;
+  }
 }
